@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #9ED5D6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color:#1A3C3D;
+    text-align: center;
+}
+h2{
+    color:#1A3C3D;
+    text-align: left;
+}
+h3{
+    color: #1A3C3D;
+}
+form{
+    width: 320px;
+    background: #3F7D83;
+    padding: 30px;
+    margin:auto;
+    margin-top: 80px;
+    border-radius: 4px;
+    color: floralwhite;
+}
+input{
+    width: 150px;
+    margin-block: 7px;
+    color: #1A3C3D;
+}
+label{
+    float: left;
+    margin: 0 10px 0 0;
+    padding: 3px 7px;
+    width: 80px;
+}
+p{
+    size: 12;
+    color: #1A3C3D;
+}
+table {
+    border-collapse: collapse;
+    width: auto;
+    font: optional;
+}
+th, td {
+    border: 1px solid black;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
